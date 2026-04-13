@@ -66,4 +66,3 @@ For a deeper dive into the project's logic, architecture, and results, check out
 ## 👨‍💻 Author
 
 **Mohammed Nouman ELghareb** | Artificial Intelligence Engineer & Data Analyst
-"# Robotic-Arm-Kinematics-using-Genetic-Algorithms-" 
